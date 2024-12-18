@@ -24,7 +24,7 @@ Installation Steps
 
 Clone the Project Repository
 
-git clone https://github.com/your-repo/smart-cancer-care.git
+git clone (https://github.com/Shashwatt-git/health_track.git )
 cd smart-cancer-care
 
 Install Necessary Dependencies
