@@ -25,7 +25,7 @@ Installation Steps
 Clone the Project Repository
 
 git clone (https://github.com/Shashwatt-git/health_track.git )
-cd smart-cancer-care
+cd beat-cancer-main
 
 Install Necessary Dependencies
 
