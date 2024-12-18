@@ -1,21 +1,3 @@
-📋 Table of Contents
-
-🤖 Overview
-
-🔋 Core Functionalities
-
-🏆 Inspiration Behind the Project
-
-⚙️ Setup Guide
-
-🚀 Application Workflow
-
-💡 AI Framework Integration
-
-👍 Contributions
-
-📜 Licensing
-
 🤖 Overview
 
 Smart Cancer Care simplifies the complex process of personalized cancer treatment using advanced AI models. It works by assessing patient records, detecting screening gaps, and generating tailored treatment strategies. This tool aims to improve patient outcomes while maintaining data security and privacy.
